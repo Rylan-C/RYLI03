@@ -33,5 +33,7 @@ Instrucciones de Instalación y Reproducción
 
 Para replicar nuestro entorno y obtener los resultados, sigue estos pasos:
 1. Clonar el repositorio:
-   ```bash git clone [https://colab.research.google.com/drive/1euw_ejfaQBKeaXIYLDEllAd_hDxm09-k?usp=sharing]
+    ```bash
+     git clone [https://colab.research.google.com/drive/1euw_ejfaQBKeaXIYLDEllAd_hDxm09-k?usp=sharing]
  cd futbotmx-sam3
+
