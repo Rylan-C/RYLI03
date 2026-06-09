@@ -18,7 +18,9 @@ Nuestra solución está diseñada mediante el siguiente flujo de trabajo:
 •	Conteo de goles.
 •	Separación de estadísticas por equipo.
 
-![Demostración de Seguimiento](ejemplo.gif.mp4)  
+
+https://github.com/user-attachments/assets/9900c65c-7f39-451b-a54a-a1a89ceafcd2
+
 
 Requisitos de Hardware y Software
 
