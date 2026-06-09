@@ -2,13 +2,13 @@ Copa FutBotMX 2026 - Reto de Visión por Computadora
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Descripción del Proyecto /n
+Descripción del Proyecto
 
 Este repositorio contiene nuestra entrega oficial para la **Copa FutBotMX (Capítulo Visión por Computadora)**, compitiendo en la categoría Amateur. Nuestro proyecto utiliza el **Segment Anything Model 3 (SAM 3)** de Meta para segmentar, rastrear y analizar de forma automatizada los partidos de fútbol robótico.
 
 El objetivo principal es aplicar conceptos de visión por computadora para identificar el balón y los robots, generando estadísticas útiles y una narrativa visual del juego.
 
-Enfoque y Arquitectura\n
+Enfoque y Arquitectura
 
 Nuestra solución está diseñada mediante el siguiente flujo de trabajo:
 1. Detección y Segmentación (SAM 3): Utilizamos comandos y prompts) para indicarle al modelo cómo identificar de manera precisa a los robots y el balón en el campo de juego.
