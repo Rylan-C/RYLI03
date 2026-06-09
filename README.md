@@ -25,8 +25,11 @@ Entorno: Google Colab
 Hardware: GPU NVIDIA T4
 Versión de Python: 3.10+
 Dependencias Principales: `torch` y `torchvision` (Requeridos para ejecutar el modelo SAM 3)
+
 •	`opencv-python` (Para el procesamiento de video y dibujo)
+
 •	`numpy`
+
 •	`sam3` (Repositorio oficial de Meta)
 
 Instrucciones de Instalación y Reproducción
