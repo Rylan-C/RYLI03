@@ -4,7 +4,7 @@ Copa FutBotMX 2026 - Reto de Visión por Computadora
 
 Descripción del Proyecto
 
-Este repositorio contiene nuestra entrega oficial para la **Copa FutBotMX (Capítulo Visión por Computadora)**, compitiendo en la categoría Amateur. Nuestro proyecto utiliza el **Segment Anything Model 3 (SAM 3)** de Meta para segmentar, rastrear y analizar de forma automatizada los partidos de fútbol robótico.
+Este repositorio contiene nuestra entrega oficial para la Copa FutBotMX. Nuestro proyecto utiliza el Segment Anything Model 3 (SAM 3) de Meta para segmentar, rastrear y analizar de forma automatizada los partidos de fútbol robótico.
 
 El objetivo principal es aplicar conceptos de visión por computadora para identificar el balón y los robots, generando estadísticas útiles y una narrativa visual del juego.
 
@@ -46,10 +46,10 @@ Para replicar nuestro entorno y obtener los resultados, sigue estos pasos:
 1. Clonar el repositorio:
    ```bash git
    clone  https://colab.research.google.com/drive/1UrF0WutbZuiNGDLzT8S2aRW3u8OyqIDc?usp=sharing https://colab.research.google.com/drive/1euw_ejfaQBKeaXIYLDEllAd_hDxm09-k?usp=sharing
+ 
  cd futbotmx-sam3
 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
