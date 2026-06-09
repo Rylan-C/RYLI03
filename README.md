@@ -23,9 +23,13 @@ Nuestra solución está diseñada mediante el siguiente flujo de trabajo:
 Requisitos de Hardware y Software
 
 Este proyecto fue desarrollado y optimizado para ejecutarse en la nube.
+
 Entorno: Google Colab
+
 Hardware: GPU NVIDIA T4
+
 Versión de Python: 3.10+
+
 Dependencias Principales: `torch` y `torchvision` (Requeridos para ejecutar el modelo SAM 3)
 
 •	`opencv-python` (Para el procesamiento de video y dibujo)
