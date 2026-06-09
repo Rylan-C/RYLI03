@@ -18,6 +18,8 @@ Nuestra solución está diseñada mediante el siguiente flujo de trabajo:
 •	Conteo de goles.
 •	Separación de estadísticas por equipo.
 
+![Demostración de Seguimiento](ejemplo.gif) 
+
 Requisitos de Hardware y Software
 
 Este proyecto fue desarrollado y optimizado para ejecutarse en la nube.
